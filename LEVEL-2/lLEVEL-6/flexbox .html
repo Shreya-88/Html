@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Flexbox direction </title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+        }
+        .box {
+            height: 100px;
+            width: 100px;
+            border: 3px solid black;
+            margin-right: 5px;
+        }
+        #heading {margin-left: 200px;}
+        #container {
+            height: 500px;
+            width: 500px;
+            padding: 10px;
+            margin: 20px;
+            border: 3px solid black;
+            background-color: pink;
+            display: flex;
+            flex-direction: row-reverse;
+            justify-content:space-between;
+            align-items: center;
+            align-content: baseline;
+        }
+        #box1 {background-color: palevioletred;}
+        #box2 {background-color: palegreen;}
+        #box3 {background-color: peru;}
+        #box4 {background-color: powderblue;}
+
+    </style>
+</head>
+<body>
+    <h1 id="heading">flex container</h1>
+    <div id="container">
+        <div id="box1" class="box">flex Item 1</div>
+        <div id="box2" class="box">flex Item 2</div>
+        <div id="box3" class="box">flex Item 3</div>
+        <div id="box4" class="box">flex Item 4</div>
+    </div>
+</body>
+</html>
