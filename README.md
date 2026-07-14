@@ -26,6 +26,46 @@ A collection of beginner HTML and CSS exercises created while learning front-end
 [View CSS learning exercises](LEVEL-1/)  
 [View intermediate CSS exercises](LEVEL-2/)
 
+## 🚀 Frontend Project Slideshow
+
+<p align="center">
+  <img
+    src="frontend-project-slideshow.gif"
+    alt="Frontend learning project slideshow"
+    width="900"
+  >
+</p>
+
+This slideshow presents my guided Myntra-style landing page, Bootstrap learning project, and Tailwind CSS learning project.
+
+> These are guided front-end learning projects created for educational practice.
+
+---
+
+<p align="center">
+  <a href="https://shreya-88.github.io/Html/">
+    <img src="https://img.shields.io/badge/Live_Demo-Open_Website-E83E70?style=for-the-badge" alt="Live Demo">
+  </a>
+  <a href="LEVEL-2/LEVEL-8/Project%20Myntra%20Clone%20.html">
+    <img src="https://img.shields.io/badge/HTML-View_Source-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML Source">
+  </a>
+  <a href="LEVEL-2/LEVEL-8/Index.css">
+    <img src="https://img.shields.io/badge/CSS-View_Source-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS Source">
+  </a>
+</p>
+
+## 🖼️ HTML & CSS Practice Slideshow
+
+<p align="center">
+  <img
+    src="html-css-practice-slideshow.gif"
+    alt="HTML and CSS practice-set slideshow"
+    width="900"
+  >
+</p>
+
+The slideshow presents Practice Sets 1–7 covering HTML elements, CSS selectors, layouts, positioning, Flexbox, transitions, and animations.
+
 ## 🛍️ Guided Myntra-Style Landing Page
 
 A front-end learning exercise that recreates parts of an e-commerce landing page using HTML and CSS.
